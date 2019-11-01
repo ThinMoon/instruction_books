@@ -1,2 +1,4 @@
-# instruction_books
-写个README.md可以吧
+本仓库包括以下内容：
+《系统设计说明书》
+《数据库设计说明书》
+《答辩PPT》
